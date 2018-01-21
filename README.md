@@ -2,7 +2,7 @@
 
 Colour scheme for Atom. Looks something like:
 
-![Popcorn JS screenshot](https://www.dropbox.com/s/xzbfc07kpw1u4p8/Screenshot%202018-01-21%2019.18.29.png?dl=1)
+![Popcorn JS screenshot](https://user-images.githubusercontent.com/160712/35194133-b5941bcc-fee0-11e7-85de-27bc1f552c31.png)
 
 ## Installation
 ```
