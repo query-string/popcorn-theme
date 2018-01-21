@@ -1,5 +1,5 @@
-# popcorn-theme theme
+# Popcorn Theme
 
-A short description of your theme.
+Colour scheme for Atom. Looks something like:
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Popcorn JS screenshot](https://www.dropbox.com/s/xzbfc07kpw1u4p8/Screenshot%202018-01-21%2019.18.29.png?dl=1)
