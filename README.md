@@ -7,4 +7,5 @@ Colour scheme for Atom. Looks something like:
 ## Installation
 ```
 apm link ~/Downloads/popcorn-theme
+apm install popcorn-theme
 ```
